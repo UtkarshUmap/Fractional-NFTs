@@ -9,6 +9,9 @@
 
 ---
 
+## Video Link
+https://drive.google.com/file/d/1hTCqSDSaDD4MAwnzDmejYrl8pqMfvciB/view?usp=sharing
+
 ## Project Description
 
 **Fractional NFTs** is a smart contract built on the **Stellar blockchain** using the **Soroban SDK**. It enables the minting of Non-Fungible Tokens (NFTs) that are split into multiple fractional shares, allowing partial ownership of a digital asset to be distributed across many holders. Instead of a single wallet owning an entire NFT, any number of participants can co-own a piece of it — democratizing access to high-value digital assets.
