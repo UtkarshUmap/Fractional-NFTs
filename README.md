@@ -72,6 +72,12 @@ Read-only queries for NFT data, individual holdings, and platform-level metrics.
 <img width="1585" height="905" alt="Screenshot from 2026-03-29 16-29-49" src="https://github.com/user-attachments/assets/58d39fbc-e824-48cb-ac37-a109a96abf4e" />
 <img width="1585" height="905" alt="Screenshot from 2026-03-29 16-30-44" src="https://github.com/user-attachments/assets/40fabb39-b19b-4c1b-aab0-423f8f90b5cc" />
 <img width="1585" height="905" alt="image" src="https://github.com/user-attachments/assets/86b5f137-bf76-49bc-aee6-a55228e4322a" />
+<img width="1745" height="967" alt="image" src="https://github.com/user-attachments/assets/21f61614-753d-4c68-8946-520c9a515097" />
+<img width="1745" height="881" alt="image" src="https://github.com/user-attachments/assets/ea5b1223-5be2-4902-8bd6-153ecc151b5a" />
+<img width="1745" height="881" alt="image" src="https://github.com/user-attachments/assets/c4f9bfef-2db3-40b9-a2cb-c27e3ad7997d" />
+
+
+
 
 
 
